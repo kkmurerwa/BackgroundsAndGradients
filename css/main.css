@@ -3,7 +3,7 @@
     --footer-image-width: 12px;
     --header-image-width: 30px;
     --border-dimensions: solid #656565 2px;
-    --bg-gradient: linear-gradient(linear, #666, #5e5e5e);
+    --bg-gradient: rgba(102, 102, 102, 0.171);
 }
 
 /* Navbar */
