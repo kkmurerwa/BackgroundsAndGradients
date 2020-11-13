@@ -86,9 +86,9 @@
     height: 20px;
     /* background-color: red; */
     border-radius: 0 30px 30px 0;
-    animation: ease-in-out;
-    background-color: var(--bg-gradient);
     transition: width 500ms;
+    background-color: var(--bg-gradient);
+    
     outline: none;
     color: white;
     border: none;

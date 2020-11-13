@@ -15,8 +15,6 @@ function reduceSearch(){
 
 window.onclick = function (){
     let search_bar = document.getElementById("search")
-    console.log(search_bar)
-    console.log(document.activeElement)
     if(document.activeElement === search_bar){
         enlargeSearch() 
     } else{
